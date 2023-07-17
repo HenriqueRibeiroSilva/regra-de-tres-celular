@@ -77,14 +77,14 @@ input{
 }
 
 input.num001{
-    width: 170px;
+    width: 270px;
     height: 20px;
     text-align: center;
     border-radius: 10px;
 }
 
 input.num002{
-    width: 170px;
+    width: 270px;
     height: 20px;
     text-align: center;
     border-radius: 10px;
@@ -96,14 +96,14 @@ div.num-baixo{
 }
 
 input.variavel1{
-    width: 170px;
+    width: 270px;
     height: 20px;
     text-align: center;
     border-radius: 10px;
 }
 
 input.variavel2{
-    width: 170px;
+    width: 270px;
     height: 20px;
     text-align: center;
     border-radius: 10px;
@@ -123,8 +123,8 @@ button{
 
     margin: auto;
     margin-bottom: 15px;
-    width: 150px;
-    height: 30px;
+    width: 250px;
+    height: 40px;
 
     border-radius: 10px;
     
