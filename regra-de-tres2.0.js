@@ -57,5 +57,4 @@ function limpar() {
     variavel01.value = '';
     variavel02.value = '';
     mostrador.innerHTML ='';
-    num01.focus();  
 }
