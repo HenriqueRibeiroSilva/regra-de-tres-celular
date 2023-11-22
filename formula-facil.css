@@ -50,7 +50,7 @@ main.main-header{
     background-color: var(--cor0);
     font-family: var(--fonte-padrao);
 
-    width: 100%;
+    width: 28vw;
     padding-top: 10px;
     padding-bottom: 30px;
 
@@ -76,14 +76,14 @@ input{
 }
 
 input.num001{
-    width: 170px;
+    width: 12vw;
     height: 20px;
     text-align: center;
     border-radius: 10px;
 }
 
 input.num002{
-    width: 170px;
+    width: 12vw;
     height: 20px;
     text-align: center;
     border-radius: 10px;
@@ -95,14 +95,14 @@ div.num-baixo{
 }
 
 input.variavel1{
-    width: 170px;
+    width: 12vw;
     height: 20px;
     text-align: center;
     border-radius: 10px;
 }
 
 input.variavel2{
-    width: 170px;
+    width: 12vw;
     height: 20px;
     text-align: center;
     border-radius: 10px;
@@ -123,7 +123,7 @@ button{
 
     margin: auto;
     margin-bottom: 15px;
-    width: 150px;
+    width: 18vw;
     height: 50px;
 
     border-radius: 10px;
@@ -139,21 +139,13 @@ button{
     transition: .3s;
 }
 
-/* button:hover{
-    background-color: var(--cor2);
-
-    transform: translateY(-7px);
-
-    box-shadow: 0px 2px 8px rgb(0, 0, 0);
-} */
-
 /* MAIN (BOTTOM) */
 
 main.main-bottom{
     background-color: var(--cor0);
     font-family: var(--fonte-padrao);
 
-    width: 100%;
+    width: 28vw;
     padding-top: 10px;
     padding-bottom: 10px;
     
@@ -179,10 +171,12 @@ div.res{
 body>footer{
     background-color: var(--cor0);
     color: var(--cor4);
+    width: 28vw;
 
     text-align: center;
     font-size: .8em;
 
     padding: 5px;
+    margin: auto;
     margin-top: 193px;
 }
