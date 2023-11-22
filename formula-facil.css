@@ -50,7 +50,7 @@ main.main-header{
     background-color: var(--cor0);
     font-family: var(--fonte-padrao);
 
-    width: 28vw;
+    width: 90vw;
     padding-top: 10px;
     padding-bottom: 30px;
 
@@ -76,14 +76,14 @@ input{
 }
 
 input.num001{
-    width: 12vw;
+    width: 35vw;
     height: 20px;
     text-align: center;
     border-radius: 10px;
 }
 
 input.num002{
-    width: 12vw;
+    width: 35vw;
     height: 20px;
     text-align: center;
     border-radius: 10px;
@@ -95,20 +95,22 @@ div.num-baixo{
 }
 
 input.variavel1{
-    width: 12vw;
+    width: 35vw;
     height: 20px;
     text-align: center;
     border-radius: 10px;
 }
 
 input.variavel2{
-    width: 12vw;
+    width: 35vw;
     height: 20px;
     text-align: center;
     border-radius: 10px;
 }
 
 div.mostrador{
+    width: 80vw;
+    margin: auto;
     margin-top: 15px;
     color: var(--cor1);
     font-size: 1.5em;
@@ -123,7 +125,7 @@ button{
 
     margin: auto;
     margin-bottom: 15px;
-    width: 18vw;
+    width: 55vw;
     height: 50px;
 
     border-radius: 10px;
@@ -145,7 +147,7 @@ main.main-bottom{
     background-color: var(--cor0);
     font-family: var(--fonte-padrao);
 
-    width: 28vw;
+    width: 90vw;
     padding-top: 10px;
     padding-bottom: 10px;
     
@@ -171,7 +173,7 @@ div.res{
 body>footer{
     background-color: var(--cor0);
     color: var(--cor4);
-    width: 28vw;
+    width: 100vw;
 
     text-align: center;
     font-size: .8em;
